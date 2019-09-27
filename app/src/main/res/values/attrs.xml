@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedImageView">
+        <attr name="flo_top_left_radius" format="dimension"/>
+        <attr name="flo_top_right_radius" format="dimension"/>
+        <attr name="flo_bottom_left_radius" format="dimension"/>
+        <attr name="flo_bottom_right_radius" format="dimension"/>
+        <attr name="flo_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
